@@ -1,4 +1,4 @@
-# simple-resume
+# Coding Challenge Simple Resume
 
 ---
 ### Instructions:
